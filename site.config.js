@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Anduya',
-  domain: '',
+  domain: 'unomyht.cn',
   author: 'Anduya',
 
   // open graph metadata (optional)
