@@ -6,7 +6,6 @@ export const GitHubShareButton: React.FC = () => {
 
   return (<div></div>);
   
->>>>>>> 575e044fa54c3ab6c8c025fc02fd5fd64468b15b
   return (
     <a
       href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit'
